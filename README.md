@@ -1,7 +1,6 @@
-## Hi there 👋
 
 
-*# 👋 Hi, I'm Chen-Kang (Ray) Yeh
+Hi, I'm Ray Yeh👋
 
 Full Stack Developer
 
