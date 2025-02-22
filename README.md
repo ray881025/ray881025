@@ -63,7 +63,7 @@ Location management application with modern features
 - 🔄 Implemented CI/CD automation
 - 📊 Enhanced HR systems with DevOps methodologies
 
-### Software Developer Intern @ Annji Pharmaceutical
+### Software Developer @ Annji Pharmaceutical
 - ✅ Achieved 80% unit test coverage
 - 🔒 Enhanced security in lab data management
 - 🔧 Optimized data processing for 40+ systems
