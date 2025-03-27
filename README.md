@@ -42,12 +42,12 @@ A full-stack video sharing platform built with modern technologies
 - 🔒 Secure authentication and user management
 - 🛠️ Tech Stack: TypeScript, Next.js, Express.js, Docker
 
-### CloudCalculator
-Cloud cost comparison tool for optimizing cloud expenses
-- 💰 Interactive survey for generating price optimizations
-- 🔄 Real-time pricing from AWS, Azure, and GCP APIs
-- 📊 Cost analysis and comparison features
-- 🛠️ Tech Stack: React.js, Node.js, Express.js
+### GenAI Image Generator
+An AI-powered app that generates and displays images using Stable Diffusion
+- 🎨 Image generation based on user prompts via Stable Diffusion API
+- 🖼️ Gallery view with image detail and delete functionality
+- 🚀 Frontend + backend integration with full-stack design
+- 🛠️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Stability AI API
 
 ### Place Keeper
 Location management application with modern features
@@ -56,17 +56,35 @@ Location management application with modern features
 - 📱 Responsive design and user-friendly interface
 - 🛠️ Tech Stack: React.js, Node.js, Express.js, MongoDB
 
+### CloudCalculator
+Cloud cost comparison tool for optimizing cloud expenses
+- 💰 Interactive survey for generating price optimizations
+- 🔄 Real-time pricing from AWS, Azure, and GCP APIs
+- 📊 Cost analysis and comparison features
+- 🛠️ Tech Stack: React.js, Node.js, Express.js
+
+### SimpleOS
+A command-line operating system simulator for educational use
+- 💻 Supports commands like create, read, write, move, ls, chmod
+- 📁 Simulates file, directory, and permission management in memory
+- 📚 Built to understand core OS concepts via C programming
+- 🛠️ Tech Stack: C 
+
+
+
 ## 💼 Professional Experience
 
 ### DevOps Engineer Intern @ TSMC
-- 🚀 Developed Event Check-In Mini APP using TypeScript
-- 🔄 Implemented CI/CD automation
-- 📊 Enhanced HR systems with DevOps methodologies
+- 🗂️ Developed an Event Check-In Mini App for the Employee Entertainment Platform using Next.js and TypeScript, improving check-in speed and accuracy
+- 🔐 Built a secure file management system with MinIO for role-based document access in the Employee Stock Purchase Platform
+- ⚙️ Created RESTful APIs with Express.js and MongoDB to handle user authorization and file operations
+- 🛡️ Designed and implemented a multi-level authentication system using React and Node.js to support different user roles
+- 🚀 Automated CI/CD workflows with Postman test collections and Git hooks
 
 ### Software Developer @ Annji Pharmaceutical
-- ✅ Achieved 80% unit test coverage
-- 🔒 Enhanced security in lab data management
-- 🔧 Optimized data processing for 40+ systems
+- ✅ Achieved unit test coverage for medical device software using C++
+- 🔒 Strengthened data protection by implementing secure authentication protocols, maintaining HIPAA compliance
+- ⚙️ Optimized real-time data processing algorithms
 
 ## 📫 Let's Connect!
 - Email: rayyehfall2023@gmail.com
