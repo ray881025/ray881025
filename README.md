@@ -72,23 +72,10 @@ A command-line operating system simulator for educational use
 
 
 
-## 💼 Professional Experience
-
-### DevOps Engineer Intern @ TSMC
-- 🗂️ Developed an Event Check-In Mini App for the Employee Entertainment Platform using Next.js and TypeScript, improving check-in speed and accuracy
-- 🔐 Built a secure file management system with MinIO for role-based document access in the Employee Stock Purchase Platform
-- ⚙️ Created RESTful APIs with Express.js and MongoDB to handle user authorization and file operations
-- 🛡️ Designed and implemented a multi-level authentication system using React and Node.js to support different user roles
-- 🚀 Automated CI/CD workflows with Postman test collections and Git hooks
-
-### Software Developer @ Annji Pharmaceutical
-- ✅ Achieved unit test coverage for medical device software using C++
-- 🔒 Strengthened data protection by implementing secure authentication protocols, maintaining HIPAA compliance
-- ⚙️ Optimized real-time data processing algorithms
 
 ## 📫 Let's Connect!
 - Email: rayyehfall2023@gmail.com
-- LinkedIn: [Chen-Kang Yeh](https://www.linkedin.com/in/ray881025)
+
 
 ---
 
